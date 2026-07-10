@@ -1,29 +1,14 @@
-# Hi there! 👋 I'm Sneha
-🎓 First-year BSc CSIT Student from Nepal
-💻 Aspiring Software Engineer | MERN Stack Developer | DSA
-
-🌱 Currently Learning
-- HTML & CSS
-- JavaScript
-- Git & GitHub
-- Data Structures & Algorithms
-  
-🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript (Learning)
-- Python
-- C
-- C++
-- Git
-- GitHub
-
-📫 Connect with me
-- LinkedIn: Sneha Chaudhary
-- Email: cdysneha55@gmail.com
-
-<h1>Hello there👋</h1>
+<h1>Hi there! 👋 I'm Sneha </h1>
+<p>🎓 First-year BSc CSIT Student from Nepal</p>
 <p>💻 Aspiring Software Engineer | MERN Stack Developer</p>
+<h2>🌱 Currently Learning </h2>
+<p>
+- HTML & CSS <br>
+- JavaScript <br>
+- Git & GitHub <br>
+- Data Structures & Algorithms <br>
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
