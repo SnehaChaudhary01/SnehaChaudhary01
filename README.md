@@ -1,6 +1,11 @@
 <h1>Hi there! 👋 I'm Sneha </h1>
-<p>🎓 First-year BSc CSIT Student from Nepal</p>
 <p>💻 Aspiring Software Engineer | MERN Stack Developer</p>
+## 👋 About Me
+I'm **Sneha Chaudhary**, a first-year **BSc CSIT** student from Nepal and an aspiring **Software Engineer**.  
+💻 Currently learning **JavaScript**, **Data Structures & Algorithms**, and the **MERN Stack**.  
+🚀 Passionate about building real-world projects, writing clean code, and solving challenging problems.  
+🌱 Continuously exploring modern web technologies while improving my development skills every day.  
+🎯 My goal is to become a Software Engineer and build software that makes a meaningful impact.
 <h2>🌱 Currently Learning </h2>
 <p>
 - HTML & CSS <br>
