@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sneha
+🎓 First-year BSc CSIT Student from Nepal
+💻 Aspiring Software Engineer | MERN Stack Developer | DSA
+
+🌱 Currently Learning
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Data Structures & Algorithms
+  
+🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript (Learning)
+- Python
+- C
+- C++
+- Git
+- GitHub
+
+📫 Connect with me
+- LinkedIn: Sneha Chaudhary
+
 
 <!--
 **SnehaChaudhary01/SnehaChaudhary01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
