@@ -1,4 +1,3 @@
-##Sneha Chaudhary
 # Hi there! 👋 I'm Sneha
 🎓 First-year BSc CSIT Student from Nepal
 💻 Aspiring Software Engineer | MERN Stack Developer | DSA
