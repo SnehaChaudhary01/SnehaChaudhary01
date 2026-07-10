@@ -19,7 +19,8 @@
 - GitHub
 
 📫 Connect with me
-- LinkedIn: Sneha Chaudhary
+- LinkedIn: https://www.linkedin.com/in/sneha-chaudhary-06666b35b
+- Email: cdysneha55@gmail.com
 
 
 <!--
